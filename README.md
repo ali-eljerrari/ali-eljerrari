@@ -33,8 +33,8 @@ Establishes an innovative digital platform delving into the convergence of meteo
 
 <!-- Social Media Links -->
 ## Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)]([https://www.linkedin.com/in/yourname/](https://www.linkedin.com/in/ali-eljerrari-80a123153?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)]([https://twitter.com/yourusername](https://twitter.com/Coding__Dynasty))
 
 <!-- Footer -->
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
