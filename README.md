@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there! 👋 I'm Your Name
+# Hi there! 👋 I'm Coding Dynasty
 
 <!-- Introduction -->
 I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and design.
@@ -7,14 +7,15 @@ I'm a passionate software developer with a love for clean code and creative solu
 <!-- Skills -->
 ## Skills
 - 💻 Full-stack Web Development
-- 🚀 React.js, Node.js, Express
+- 🚀 React.js, Node.js, Express.js
 - 📱 Mobile App Development with React Native
-- 🎨 UI/UX Design
 
 <!-- Projects -->
 ## Projects
-### Project 1: Awesome Project
-A brief description of the project with a link to the repository.
+### Project 1: Coding Dynasty Tech Blog
+Suggests a digital space that explores the intersection of creativity and programming excellence. Creates a dynamic space for tech enthusiasts and developers to stay informed and inspired.
+
+[![Blog](https://coding-dynasty.xyz)
 
 ### Project 2: Another Cool Project
 Highlight key features and technologies used.
