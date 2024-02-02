@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for clean code and creative solu
 ### Project 1: Coding Dynasty Tech Blog
 Suggests a digital space that explores the intersection of creativity and programming excellence. Creates a dynamic space for tech enthusiasts and developers to stay informed and inspired.
 
-[![Blog](https://coding-dynasty.xyz)
+[Blog](https://coding-dynasty.xyz)
 
 ### Project 2: Another Cool Project
 Highlight key features and technologies used.
