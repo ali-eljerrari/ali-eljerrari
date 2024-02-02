@@ -15,10 +15,17 @@ I'm a passionate software developer with a love for clean code and creative solu
 ### Project 1: Coding Dynasty Tech Blog
 Suggests a digital space that explores the intersection of creativity and programming excellence. Creates a dynamic space for tech enthusiasts and developers to stay informed and inspired.
 
-[Blog](https://coding-dynasty.xyz)
+[Visit Blog](https://coding-dynasty.xyz)
 
-### Project 2: Another Cool Project
-Highlight key features and technologies used.
+### Project 2: Movies Library
+Curates an immersive digital realm at the crossroads of cinematic artistry and technical brilliance. Cultivates a vibrant space for movie aficionados and enthusiasts to stay updated and captivated, exploring the fascinating intersection of film creativity and technological excellence.
+
+[Visit Weather](https://weather.coding-dynasty.xyz)
+
+### Project 2: Movies Library
+Establishes an innovative digital platform delving into the convergence of meteorological creativity and coding excellence. Cultivates a dynamic space for weather enthusiasts and developers to remain informed and inspired, bridging the realms of atmospheric science and technological innovation.
+
+[Visit Library](https://weather.coding-dynasty.xyz)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
