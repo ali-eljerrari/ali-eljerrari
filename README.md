@@ -30,6 +30,3 @@ Establishes an innovative digital platform delving into the convergence of meteo
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-dynasty&show_icons=true&count_private=true&theme=radical)
-
-<!-- Footer -->
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=coding-dynasty)
