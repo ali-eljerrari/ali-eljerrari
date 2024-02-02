@@ -22,14 +22,14 @@ Curates an immersive digital realm at the crossroads of cinematic artistry and t
 
 [Visit Weather](https://weather.coding-dynasty.xyz)
 
-### Project 2: Movies Library
+### Project 3: Movies Library
 Establishes an innovative digital platform delving into the convergence of meteorological creativity and coding excellence. Cultivates a dynamic space for weather enthusiasts and developers to remain informed and inspired, bridging the realms of atmospheric science and technological innovation.
 
 [Visit Library](https://weather.coding-dynasty.xyz)
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coding-dynasty&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
 <!-- Social Media Links -->
 ## Let's Connect
