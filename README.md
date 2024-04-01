@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Mern-Stack Development**
 
-- 📫 How to reach me **support.coding-dynasty@proton.me**
+- 📫 How to reach me **contact@coding-dynasty.xyz**
 
 - 📄 Know about my experiences [https://portfolio.coding-dynasty.xyz#about](https://portfolio.coding-dynasty.xyz#about)
 
