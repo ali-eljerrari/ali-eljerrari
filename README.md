@@ -49,3 +49,5 @@
    <br /> <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-eljerrari&" alt="coding-dynasty" width="100%"/></p>
+
+ ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
