@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Eljerrari</h1>
+
 <h3 align="center">I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and creativity</h3>
 
 <div align="center">
