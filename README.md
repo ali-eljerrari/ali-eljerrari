@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Coding Dynasty</h1>
+<h1 align="center">Hi 👋, I'm Ali Eljerrari</h1>
 <h3 align="center">I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and creativity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coding-dynasty&label=Profile%20views&color=0e75b6&style=flat" alt="coding-dynasty"  width="100%"/> </p>
