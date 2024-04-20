@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Eljerrari</h1>
 <h3 align="center">I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and creativity</h3>
 
-<div align=center>
+<div align="center">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
 
@@ -9,7 +9,7 @@
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Front-End Developer;Back-End Developer;Database Management;Full-Stack Developer" />
 </h1>
 
-<div align=center>
+<div align="center">
    <h4>
       🌱 I’m mostly interested in:
       
@@ -25,7 +25,7 @@
    </h4>
 </div>
 
-<div align=center>
+<div align="center">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
 </div>
 
