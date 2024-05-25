@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **ReactJs, ExpressJs, MongoDB, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.coding-dynasty.xyz](https://portfolio.coding-dynasty.xyz)
+- 👨‍💻 All of my projects are available at [https://portfolio.coding-dynasty.xyz](https://portfolio.coding-dynasty.xyz/#projects)
 
 - 📝 I regularly write articles on [https://coding-dynasty.xyz](https://coding-dynasty.xyz/blog)
 
