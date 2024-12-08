@@ -13,19 +13,19 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-eljerrari" alt="coding-dynasty" /></a> </p>
 
 
-- 🔭 I’m currently working on [a Tech Blog](https://coding-dynasty.xyz)
+- 🔭 I’m currently working on [a Tech Blog](https://coding-dynasty.com)
 
 - 🌱 I’m currently learning **ReactJs, ExpressJs, MongoDB, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.coding-dynasty.xyz](https://portfolio.coding-dynasty.xyz/#projects)
+- 👨‍💻 All of my projects are available at [https://portfolio.coding-dynasty.com](https://portfolio.coding-dynasty.com/#projects)
 
-- 📝 I regularly write articles on [https://coding-dynasty.xyz](https://coding-dynasty.xyz/blog)
+- 📝 I regularly write articles on [https://coding-dynasty.com](https://coding-dynasty.com/blog)
 
 - 💬 Ask me about **Mern-Stack Development**
 
-- 📫 How to reach me **contact@coding-dynasty.xyz**
+- 📫 How to reach me **contact@coding-dynasty.com**
 
-- 📄 Know about my experiences [https://portfolio.coding-dynasty.xyz#about](https://portfolio.coding-dynasty.xyz#about)
+- 📄 Know about my experiences [https://portfolio.coding-dynasty.com#about](https://portfolio.coding-dynasty.com#about)
 
 - ⚡ Fun fact: **I think I am funny**
 
