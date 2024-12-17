@@ -25,10 +25,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[Tech Blog](https://coding-dynasty.com)**  
+- 🔭 Currently working on **[Tech Blog](https://blog.coding-dynasty.com)**  
 - 🌱 Learning **Next.js, React, MongoDB, and Express**  
 - 👨‍💻 My projects: [My Portfolio](https://portfolio.coding-dynasty.com/#projects)  
-- 📝 I write on [Coding Dynasty Blog](https://coding-dynasty.com/blog)  
+- 📝 I write on [Coding Dynasty Blog](https://blog.coding-dynasty.com)  
 - 💬 Ask me about **MERN-Stack Development**  
 - 📫 Reach me: **contact@coding-dynasty.com**  
 - ⚡ Fun Fact: *I think I am funny*  
@@ -38,7 +38,6 @@
 ### 🛠️ Technologies and Tools
 
 <p align="center">
-  <!-- Example icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />
@@ -65,12 +64,11 @@
 
 ### 📰 Latest Blog Posts
 
-<!-- Add a manual list or feed -->
-- [Building a Scalable Architecture with Next.js](https://coding-dynasty.com/blog)  
-- [Optimizing React for High-Traffic Applications](https://coding-dynasty.com/blog)  
-- [Docker + Kubernetes: Practical CI/CD](https://coding-dynasty.com/blog)
+- [Building a Scalable Architecture with Next.js](https://blog.coding-dynasty.com)  
+- [Optimizing React for High-Traffic Applications](https://blog.coding-dynasty.com)  
+- [Docker + Kubernetes: Practical CI/CD](https://blog.coding-dynasty.com)
 
-*📚 More on [Coding Dynasty Blog](https://coding-dynasty.com/blog)*
+*📚 More on [Coding Dynasty Blog](https://blog.coding-dynasty.com)*
 
 ---
 
