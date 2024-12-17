@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ali Eljerrari</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Open-Source+Enthusiast;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;TailwindCSS+%7C+GraphQL+%7C+REST+APIs;DevOps+%7C+Docker+%7C+Kubernetes;Building+Scalable+Web+Applications" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+Open-Source+Enthusiast;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;TailwindCSS+%7C+GraphQL+%7C+REST+APIs;DevOps+%7C+Docker+%7C+Kubernetes;Building+Scalable+Web+Applications" alt="Typing SVG">
 </p>
 
 <h3 align="center">I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and creativity</h3>
