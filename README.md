@@ -1,3 +1,8 @@
+<!-- Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Ali+Eljerrari!;Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Open-Source+Enthusiast" alt="Typing SVG">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ali Eljerrari</h1>
 
 <h3 align="center">I'm a passionate software developer with a love for clean code and creative solutions. Currently exploring the intersection of technology and creativity</h3>
