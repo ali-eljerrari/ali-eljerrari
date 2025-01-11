@@ -11,34 +11,38 @@
 </p>
 
 <!-- Social Links -->
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 <div align="center">
+ <a href="https://blog.coding-dynasty.com">
+    <img src="https://img.shields.io/badge/Blog-Read_My_Articles-FF5722?style=for-the-badge&logoColor=white&logo=hashnode" alt="Blog">
+  </a>
+ <a href="https://portfolio.coding-dynasty.com/#projects">
+    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-2196F3?style=for-the-badge&logoColor=white&logo=react" alt="Portfolio">
+  </a>
+  
   <a href="https://www.linkedin.com/in/ali-eljerrari-3794902b6">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/Coding__Dynasty">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
-  <a href="https://portfolio.coding-dynasty.com/#projects">
-    <img src="https://img.shields.io/badge/Portfolio-View_My_Work-2196F3?style=for-the-badge&logoColor=white&logo=react" alt="Portfolio">
-  </a>
-  <a href="mailto:contact@coding-dynasty.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Connect-4CAF50?style=for-the-badge&logoColor=white&logo=gmail" alt="Email">
-  </a>
-  <a href="https://blog.coding-dynasty.com">
-    <img src="https://img.shields.io/badge/Blog-Read_My_Articles-FF5722?style=for-the-badge&logoColor=white&logo=hashnode" alt="Blog">
-  </a>
   <a href="https://www.youtube.com/@coding_dynasty">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
+
   <a href="https://www.tiktok.com/@coding_dynasty">
     <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok" alt="TikTok">
   </a>
   <a href="https://www.facebook.com/codingdynasty">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
-</div>
 
-<br>
+  <a href="mailto:contact@coding-dynasty.com">
+    <img src="https://img.shields.io/badge/Email-Let's_Connect-4CAF50?style=for-the-badge&logoColor=white&logo=gmail" alt="Email">
+  </a>
+</div>
 
 <!-- About Section -->
 <div align="center">
