@@ -54,10 +54,6 @@
 - 🎯 Specialized in performance optimization and SEO
 - 🌐 Contributing to open-source projects
 - 🎓 Continuous learner & tech mentor
-- 🎥 Creating tech tutorials on [YouTube](https://youtube.com/@coding-dynasty)
-- 🤝 Building a developer community on [Discord](https://discord.gg/coding-dynasty)
-- 🌟 AWS Certified Solutions Architect
-- 🔒 Cybersecurity enthusiast
 - 📫 Let's connect: **contact@coding-dynasty.com**
 - ⚡ Fun Fact: _Code is poetry, and I'm a poet_ 🎭
 
@@ -74,23 +70,23 @@
   
   <!-- Frontend -->
   <h3>Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,angular,sass,redux,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
   
   <!-- Backend -->
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postgresql,redis,nestjs,prisma,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" />
   
   <!-- DevOps -->
   <h3>DevOps & Cloud</h3>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,jenkins,terraform,azure,gcp,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,jenkins" />
   
   <!-- Additional Tools -->
   <h3>Additional Tools</h3>
-  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,jest,selenium,firebase,supabase,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,firebase,vercel" />
   
   <!-- Mobile Development -->
   <h3>Mobile Development</h3>
-  <img src="https://skillicons.dev/icons?i=flutter,react-native,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=flutter,react-native,kotlin" />
   
 </div>
 
