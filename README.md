@@ -202,20 +202,12 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 <!-- Awesome MERN Stack Resources -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
   <h2>🌟 Awesome MERN Stack Resources</h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
-
-<div align="center">
-  <h3>Curated list of awesome MERN Stack repositories</h3>
-</div>
-
-<br>
 
 <div align="center">
   <h3>Core MERN Stack</h3>
@@ -240,7 +232,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/expressjs/awesome-express">
+        <a href="https://github.com/rajikaimal/awesome-express">
           <img src="https://img.shields.io/badge/Awesome-Express-000000?style=for-the-badge&logo=express" alt="Awesome Express">
           <br>Awesome Express
         </a>
@@ -248,37 +240,7 @@
     </tr>
   </table>
 
-  <h3>Essential Tools & Libraries</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/dustinspecker/awesome-eslint">
-          <img src="https://img.shields.io/badge/Awesome-ESLint-4B32C3?style=for-the-badge&logo=eslint" alt="Awesome ESLint">
-          <br>Awesome ESLint
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/webpack-contrib/awesome-webpack">
-          <img src="https://img.shields.io/badge/Awesome-Webpack-8DD6F9?style=for-the-badge&logo=webpack" alt="Awesome Webpack">
-          <br>Awesome Webpack
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jest-community/awesome-jest">
-          <img src="https://img.shields.io/badge/Awesome-Jest-C21325?style=for-the-badge&logo=jest" alt="Awesome Jest">
-          <br>Awesome Jest
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/babel/awesome-babel">
-          <img src="https://img.shields.io/badge/Awesome-Babel-F9DC3E?style=for-the-badge&logo=babel" alt="Awesome Babel">
-          <br>Awesome Babel
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <h3>Related Technologies</h3>
+  <h3>Frontend & UI</h3>
   <table>
     <tr>
       <td align="center">
@@ -294,25 +256,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/denolib/awesome-deno">
-          <img src="https://img.shields.io/badge/Awesome-Deno-000000?style=for-the-badge&logo=deno" alt="Awesome Deno">
-          <br>Awesome Deno
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/chentsulin/awesome-graphql">
-          <img src="https://img.shields.io/badge/Awesome-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="Awesome GraphQL">
-          <br>Awesome GraphQL
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <a href="https://github.com/aniftyco/awesome-tailwindcss">
           <img src="https://img.shields.io/badge/Awesome-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Awesome Tailwind">
           <br>Awesome Tailwind
         </a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/brillout/awesome-redux">
           <img src="https://img.shields.io/badge/Awesome-Redux-764ABC?style=for-the-badge&logo=redux" alt="Awesome Redux">
@@ -325,10 +275,34 @@
           <br>Awesome Next.js
         </a>
       </td>
+    </tr>
+  </table>
+
+  <h3>Mobile & Cross-Platform</h3>
+  <table>
+    <tr>
       <td align="center">
-        <a href="https://github.com/vercel/awesome-zeit">
-          <img src="https://img.shields.io/badge/Awesome-Vercel-000000?style=for-the-badge&logo=vercel" alt="Awesome Vercel">
-          <br>Awesome Vercel
+        <a href="https://github.com/Solido/awesome-flutter">
+          <img src="https://img.shields.io/badge/Awesome-Flutter-02569B?style=for-the-badge&logo=flutter" alt="Awesome Flutter">
+          <br>Awesome Flutter
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jondot/awesome-react-native">
+          <img src="https://img.shields.io/badge/Awesome-React_Native-61DAFB?style=for-the-badge&logo=react" alt="Awesome React Native">
+          <br>Awesome React Native
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <h3>Backend & DevOps</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/veggiemonk/awesome-docker">
+          <img src="https://img.shields.io/badge/Awesome-Docker-2496ED?style=for-the-badge&logo=docker" alt="Awesome Docker">
+          <br>Awesome Docker
         </a>
       </td>
     </tr>
@@ -336,7 +310,7 @@
 
   <br>
 
-  <p>These curated lists contain comprehensive resources, tools, tutorials, and learning materials for the entire MERN stack ecosystem and related technologies.</p>
+  <p>These curated lists contain comprehensive resources, tools, tutorials, and learning materials for the entire tech stack ecosystem and related technologies that I work with.</p>
 </div>
 
 <!-- Footer -->
