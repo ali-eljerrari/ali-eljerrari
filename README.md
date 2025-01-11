@@ -12,10 +12,10 @@
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://linkedin.com/in/ali-eljerrari">
+  <a href="https://www.linkedin.com/in/ali-eljerrari-3794902b6">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/ali_eljerrari">
+  <a href="https://twitter.com/Coding__Dynasty">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://portfolio.coding-dynasty.com/#projects">
@@ -27,11 +27,14 @@
   <a href="https://blog.coding-dynasty.com">
     <img src="https://img.shields.io/badge/Blog-Read_My_Articles-FF5722?style=for-the-badge&logoColor=white&logo=hashnode" alt="Blog">
   </a>
-  <a href="https://youtube.com/@coding-dynasty">
+  <a href="https://www.youtube.com/@coding_dynasty">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-  <a href="https://discord.gg/coding-dynasty">
-    <img src="https://img.shields.io/badge/Discord-Join_Community-7289DA?style=for-the-badge&logo=discord" alt="Discord">
+  <a href="https://www.tiktok.com/@coding_dynasty">
+    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok" alt="TikTok">
+  </a>
+  <a href="https://www.facebook.com/codingdynasty">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
 </div>
 
