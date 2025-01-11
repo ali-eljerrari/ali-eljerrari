@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" width="100%"/>
+</div>
+
 <!-- Title -->
 <div align="center">
   <h1 style="font-size: 3.5em; font-weight: 800; background: linear-gradient(120deg, #2196F3, #4CAF50); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -11,17 +16,15 @@
 </p>
 
 <!-- Social Links -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<div align="center">
- <a href="https://blog.coding-dynasty.com">
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <a href="https://blog.coding-dynasty.com">
     <img src="https://img.shields.io/badge/Blog-Read_My_Articles-FF5722?style=for-the-badge&logoColor=white&logo=hashnode" alt="Blog">
   </a>
- <a href="https://portfolio.coding-dynasty.com/#projects">
+  <a href="https://portfolio.coding-dynasty.com/#projects">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-2196F3?style=for-the-badge&logoColor=white&logo=react" alt="Portfolio">
   </a>
-  
   <a href="https://www.linkedin.com/in/ali-eljerrari-3794902b6">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -31,14 +34,12 @@
   <a href="https://www.youtube.com/@coding_dynasty">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
-
   <a href="https://www.tiktok.com/@coding_dynasty">
     <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok" alt="TikTok">
   </a>
   <a href="https://www.facebook.com/codingdynasty">
     <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
-
   <a href="mailto:contact@coding-dynasty.com">
     <img src="https://img.shields.io/badge/Email-Let's_Connect-4CAF50?style=for-the-badge&logoColor=white&logo=gmail" alt="Email">
   </a>
@@ -47,11 +48,13 @@
 <!-- About Section -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>🚀 About Me</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #FF4088, #8C43FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🚀 About Me
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
   
 - 🔭 Building **[Tech Blog](https://blog.coding-dynasty.com)** - Sharing knowledge & experiences
 - 🌱 Mastering the **MERN Stack** ecosystem and modern web architectures
@@ -69,30 +72,32 @@
 <!-- Tech Stack -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>🛠️ Tech Stack & Tools</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #00C853, #64DD17); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🛠️ Tech Stack & Tools
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
   
   <!-- Frontend -->
-  <h3>Frontend</h3>
+  <h3 style="color: #FF4088;">Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
   
   <!-- Backend -->
-  <h3>Backend</h3>
+  <h3 style="color: #00C853;">Backend</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis" />
   
   <!-- DevOps -->
-  <h3>DevOps & Cloud</h3>
+  <h3 style="color: #2196F3;">DevOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,aws,jenkins" />
   
   <!-- Additional Tools -->
-  <h3>Additional Tools</h3>
+  <h3 style="color: #FFC107;">Additional Tools</h3>
   <img src="https://skillicons.dev/icons?i=figma,vscode,postman,firebase,vercel" />
   
   <!-- Mobile Development -->
-  <h3>Mobile Development</h3>
+  <h3 style="color: #9C27B0;">Mobile Development</h3>
   <img src="https://skillicons.dev/icons?i=flutter,react-native,kotlin" />
   
 </div>
@@ -100,51 +105,61 @@
 <!-- GitHub Stats -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>📊 GitHub Analytics</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #FF6D00, #FFC107); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📊 GitHub Analytics
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-eljerrari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-eljerrari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%">
-</div>
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ali-eljerrari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-eljerrari&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%">
+  </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-eljerrari&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages" width="50%">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-eljerrari&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&langs_count=8" alt="Top Languages" width="50%">
+  </div>
 </div>
 
 <!-- Most Starred Repos -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>⭐ Most Starred Repositories</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #9C27B0, #E91E63); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ⭐ Most Starred Repositories
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/ali-eljerrari/nodemailer-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=nodemailer-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/ali-eljerrari/nextjs-online-offline-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=nextjs-online-offline-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-<div align="center" style="margin: 20px 0;">
-  <a href="https://github.com/ali-eljerrari/rust-simple-dogs-api-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=rust-simple-dogs-api-server&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/ali-eljerrari/rust-scrap-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=rust-scrap-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://github.com/ali-eljerrari/nodemailer-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=nodemailer-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/ali-eljerrari/nextjs-online-offline-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=nextjs-online-offline-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+  </div>
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://github.com/ali-eljerrari/rust-simple-dogs-api-server">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=rust-simple-dogs-api-server&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/ali-eljerrari/rust-scrap-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ali-eljerrari&repo=rust-scrap-app&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    </a>
+  </div>
 </div>
 
 <!-- Latest Blog Posts -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>📝 Latest Articles</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #1E88E5, #00ACC1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    📝 Latest Articles
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
 
 - 🚀 [Building a Scalable Architecture with Next.js](https://blog.coding-dynasty.com)
 - ⚡ [Optimizing React for High-Traffic Applications](https://blog.coding-dynasty.com)
@@ -165,52 +180,60 @@
 <!-- Support Section -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>☕ Support My Work</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #F57C00, #FFB300); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ☕ Support My Work
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <a href="https://www.buymeacoffee.com/eljerrariab">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=eljerrariab&button_colour=2196F3&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" height="50px">
-  </a>
-  <a href="https://ko-fi.com/codingdynasty">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50px" style="margin-left: 20px;">
-  </a>
-  <a href="https://www.patreon.com/codingdynasty">
-    <img src="https://img.shields.io/badge/Patreon-Support_My_Work-F96854?style=for-the-badge&logo=patreon" height="50px" style="margin-left: 20px;">
-  </a>
-  <a href="https://github.com/sponsors/ali-eljerrari">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors" height="50px" style="margin-left: 20px;">
-  </a>
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <div align="center" style="margin: 20px 0;">
+    <a href="https://www.buymeacoffee.com/eljerrariab">
+      <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=eljerrariab&button_colour=2196F3&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDD00" height="50px">
+    </a>
+    <a href="https://ko-fi.com/codingdynasty">
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50px" style="margin-left: 20px;">
+    </a>
+    <a href="https://www.patreon.com/codingdynasty">
+      <img src="https://img.shields.io/badge/Patreon-Support_My_Work-F96854?style=for-the-badge&logo=patreon" height="50px" style="margin-left: 20px;">
+    </a>
+    <a href="https://github.com/sponsors/ali-eljerrari">
+      <img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor_Me-EA4AAA?style=for-the-badge&logo=github-sponsors" height="50px" style="margin-left: 20px;">
+    </a>
+  </div>
 </div>
 
 <!-- GitHub Trophies -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>🏆 GitHub Achievements</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #43A047, #7CB342); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🏆 GitHub Achievements
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<p align="center" style="margin: 20px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-eljerrari&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</p>
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <p align="center" style="margin: 20px 0;">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-eljerrari&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  </p>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-eljerrari&theme=react-dark&hide_border=true" width="100%">
+  <!-- Activity Graph -->
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-eljerrari&theme=react-dark&hide_border=true" width="100%">
+  </div>
 </div>
-
-<br>
 
 <!-- Awesome MERN Stack Resources -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h2>🌟 Awesome MERN Stack Resources</h2>
+  <h2 style="font-size: 2.5em; font-weight: 700; background: linear-gradient(120deg, #3949AB, #5E35B1); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    🌟 Awesome MERN Stack Resources
+  </h2>
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-<div align="center">
-  <h3>Core MERN Stack</h3>
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
+  <h3 style="color: #3949AB;">Core MERN Stack</h3>
   <table>
     <tr>
       <td align="center">
@@ -240,7 +263,7 @@
     </tr>
   </table>
 
-  <h3>Frontend & UI</h3>
+  <h3 style="color: #5E35B1;">Frontend & UI</h3>
   <table>
     <tr>
       <td align="center">
@@ -278,7 +301,7 @@
     </tr>
   </table>
 
-  <h3>Mobile & Cross-Platform</h3>
+  <h3 style="color: #3949AB;">Mobile & Cross-Platform</h3>
   <table>
     <tr>
       <td align="center">
@@ -296,7 +319,7 @@
     </tr>
   </table>
 
-  <h3>Backend & DevOps</h3>
+  <h3 style="color: #5E35B1;">Backend & DevOps</h3>
   <table>
     <tr>
       <td align="center">
@@ -310,15 +333,18 @@
 
   <br>
 
-  <p>These curated lists contain comprehensive resources, tools, tutorials, and learning materials for the entire tech stack ecosystem and related technologies that I work with.</p>
+  <p align="center" style="color: #B0BEC5; font-style: italic;">
+    These curated lists contain comprehensive resources, tools, tutorials, and learning materials for the entire tech stack ecosystem and related technologies that I work with.
+  </p>
 </div>
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <h3 style="color: #2196F3;">Thank you for visiting! Let's connect and build something amazing together! 🚀</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%">
+  <h3 style="font-size: 2em; font-weight: 700; background: linear-gradient(120deg, #2196F3, #4CAF50); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Thank you for visiting! Let's connect and build something amazing together! 🚀
+  </h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=ali-eljerrari&label=Profile%20views&color=2196F3&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=ali-eljerrari&label=Profile%20views&color=2196F3&style=for-the-badge" alt="Profile Views">
   </p>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
