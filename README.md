@@ -197,7 +197,146 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ali-eljerrari&theme=react-dark&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-eljerrari&theme=react-dark&hide_border=true" width="100%">
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- Awesome MERN Stack Resources -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <h2>🌟 Awesome MERN Stack Resources</h2>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
+
+<div align="center">
+  <h3>Curated list of awesome MERN Stack repositories</h3>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>Core MERN Stack</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/enaqx/awesome-react">
+          <img src="https://img.shields.io/badge/Awesome-React-61DAFB?style=for-the-badge&logo=react" alt="Awesome React">
+          <br>Awesome React
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sindresorhus/awesome-nodejs">
+          <img src="https://img.shields.io/badge/Awesome-Node.js-339933?style=for-the-badge&logo=node.js" alt="Awesome Node.js">
+          <br>Awesome Node.js
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ramnes/awesome-mongodb">
+          <img src="https://img.shields.io/badge/Awesome-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="Awesome MongoDB">
+          <br>Awesome MongoDB
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/expressjs/awesome-express">
+          <img src="https://img.shields.io/badge/Awesome-Express-000000?style=for-the-badge&logo=express" alt="Awesome Express">
+          <br>Awesome Express
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <h3>Essential Tools & Libraries</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dustinspecker/awesome-eslint">
+          <img src="https://img.shields.io/badge/Awesome-ESLint-4B32C3?style=for-the-badge&logo=eslint" alt="Awesome ESLint">
+          <br>Awesome ESLint
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/webpack-contrib/awesome-webpack">
+          <img src="https://img.shields.io/badge/Awesome-Webpack-8DD6F9?style=for-the-badge&logo=webpack" alt="Awesome Webpack">
+          <br>Awesome Webpack
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jest-community/awesome-jest">
+          <img src="https://img.shields.io/badge/Awesome-Jest-C21325?style=for-the-badge&logo=jest" alt="Awesome Jest">
+          <br>Awesome Jest
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/babel/awesome-babel">
+          <img src="https://img.shields.io/badge/Awesome-Babel-F9DC3E?style=for-the-badge&logo=babel" alt="Awesome Babel">
+          <br>Awesome Babel
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <h3>Related Technologies</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/awesome-css-group/awesome-css">
+          <img src="https://img.shields.io/badge/Awesome-CSS-1572B6?style=for-the-badge&logo=css3" alt="Awesome CSS">
+          <br>Awesome CSS
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sorrycc/awesome-javascript">
+          <img src="https://img.shields.io/badge/Awesome-JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="Awesome JavaScript">
+          <br>Awesome JavaScript
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/denolib/awesome-deno">
+          <img src="https://img.shields.io/badge/Awesome-Deno-000000?style=for-the-badge&logo=deno" alt="Awesome Deno">
+          <br>Awesome Deno
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/chentsulin/awesome-graphql">
+          <img src="https://img.shields.io/badge/Awesome-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="Awesome GraphQL">
+          <br>Awesome GraphQL
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/aniftyco/awesome-tailwindcss">
+          <img src="https://img.shields.io/badge/Awesome-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css" alt="Awesome Tailwind">
+          <br>Awesome Tailwind
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/brillout/awesome-redux">
+          <img src="https://img.shields.io/badge/Awesome-Redux-764ABC?style=for-the-badge&logo=redux" alt="Awesome Redux">
+          <br>Awesome Redux
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/unicodeveloper/awesome-nextjs">
+          <img src="https://img.shields.io/badge/Awesome-Next.js-000000?style=for-the-badge&logo=next.js" alt="Awesome Next.js">
+          <br>Awesome Next.js
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vercel/awesome-zeit">
+          <img src="https://img.shields.io/badge/Awesome-Vercel-000000?style=for-the-badge&logo=vercel" alt="Awesome Vercel">
+          <br>Awesome Vercel
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <p>These curated lists contain comprehensive resources, tools, tutorials, and learning materials for the entire MERN stack ecosystem and related technologies.</p>
 </div>
 
 <!-- Footer -->
