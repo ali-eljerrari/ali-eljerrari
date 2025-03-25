@@ -61,7 +61,7 @@
 - 👨‍💻 Check out my work at [My Portfolio](https://portfolio.coding-dynasty.com/#projects)
 - 📝 Regular writer at [Coding Dynasty Blog](https://blog.coding-dynasty.com)
 - 💡 Passionate about clean code, scalable architecture & user experience
-- 🎯 Specialized in performance optimization and SEO
+- 🎯 Specialized in performance optimization
 - 🌐 Contributing to open-source projects
 - 🎓 Continuous learner & tech mentor
 - 📫 Let's connect: **contact@coding-dynasty.com**
