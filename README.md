@@ -161,14 +161,14 @@
 
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
 
-- 🚀 [Building a Scalable Architecture with Next.js](https://blog.coding-dynasty.com)
+- 🚀 [Building a Scalable Architecture with Next.js]()
 - ⚡ [Optimizing React for High-Traffic Applications](https://blog.coding-dynasty.com)
-- 🔄 [Docker + Kubernetes: Practical CI/CD](https://blog.coding-dynasty.com)
-- 🎯 [Advanced TypeScript Patterns](https://blog.coding-dynasty.com)
-- 🔍 [SEO Best Practices for Next.js Applications](https://blog.coding-dynasty.com)
-- 🔐 [Implementing Zero-Trust Security in Web Apps](https://blog.coding-dynasty.com)
-- 📱 [Cross-Platform Development with Flutter](https://blog.coding-dynasty.com)
-- 🎨 [Mastering Tailwind CSS](https://blog.coding-dynasty.com)
+- 🔄 [Docker + Kubernetes: Practical CI/CD]()
+- 🎯 [Advanced TypeScript Patterns]()
+- 🔍 [SEO Best Practices for Next.js Applications]()
+- 🔐 [Implementing Zero-Trust Security in Web Apps]()
+- 📱 [Cross-Platform Development with Flutter]()
+- 🎨 [Mastering Tailwind CSS]()
 
 <p align="center">
   <a href="https://blog.coding-dynasty.com">
