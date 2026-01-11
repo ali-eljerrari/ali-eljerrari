@@ -19,10 +19,10 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0; background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
-  <a href="https://blog.coding-dynasty.com">
+  <a href="">
     <img src="https://img.shields.io/badge/Blog-Read_My_Articles-FF5722?style=for-the-badge&logoColor=white&logo=hashnode" alt="Blog">
   </a>
-  <a href="https://portfolio.coding-dynasty.com/#projects">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-View_My_Work-2196F3?style=for-the-badge&logoColor=white&logo=react" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/ali-eljerrari-3794902b6">
@@ -56,15 +56,15 @@
 
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), rgba(255, 255, 255, 0.1)); padding: 20px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border: 1px solid rgba(255, 255, 255, 0.18);">
   
-- 🔭 Building **[Tech Blog](https://blog.coding-dynasty.com)** - Sharing knowledge & experiences
+- 🔭 Building **[Tech Blog]()** - Sharing knowledge & experiences
 - 🌱 Mastering the **MERN Stack** ecosystem and modern web architectures
-- 👨‍💻 Check out my work at [My Portfolio](https://portfolio.coding-dynasty.com/#projects)
-- 📝 Regular writer at [Coding Dynasty Blog](https://blog.coding-dynasty.com)
+- 👨‍💻 Check out my work at [My Portfolio]()
+- 📝 Regular writer at [Coding Dynasty Blog]()
 - 💡 Passionate about clean code, scalable architecture & user experience
 - 🎯 Specialized in performance optimization
 - 🌐 Contributing to open-source projects
 - 🎓 Continuous learner & tech mentor
-- 📫 Let's connect: **contact@coding-dynasty.com**
+- 📫 Let's connect: ****
 - ⚡ Fun Fact: _Code is poetry, and I'm a poet_ 🎭
 
 </div>
